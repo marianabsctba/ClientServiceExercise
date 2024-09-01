@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\clientService-main",
+    "\\clientService-main\\src",
+    "\\clientService-main\\src\\main",
+    "\\clientService-main\\src\\main\\resources",
+    "\\clientService-main\\src\\test",
+    "\\clientService-main\\src\\test\\java",
+    "\\clientService-main\\src\\test\\java\\edu",
+    "\\clientService-main\\src\\test\\java\\edu\\br",
+    "\\clientService-main\\src\\test\\java\\edu\\br\\infnet",
+    "\\clientService-main\\src\\test\\java\\edu\\br\\infnet\\clientservice"
+  ],
+  "SelectedNode": "\\clientService-main\\src\\main\\java\\edu\\br\\infnet\\clientservice\\controller\\ClientController.java",
+  "PreviewInSolutionExplorer": false
+}
